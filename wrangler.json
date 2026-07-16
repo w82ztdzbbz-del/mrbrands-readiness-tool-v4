@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "mrbrands-readiness-tool-v4",
+  "main": "index.js",
+  "compatibility_date": "2026-07-16",
+  "workers_dev": true
+}
